@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Storge</string>
+    <string name="username">username</string>
+    <string name="save">Save</string>
+    <string name="name">name</string>
+    <string name="save_data">Save Data</string>
+</resources>
